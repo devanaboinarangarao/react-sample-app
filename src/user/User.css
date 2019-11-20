@@ -1,0 +1,17 @@
+.User {
+    width: 20%;
+    background: coral;
+    border : 1px solid #f4f4f4;
+    box-shadow : 5px 5px 8px #666;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.col {
+    color : #fff;
+}
+
+.weight {
+    font-weight: bold;
+}
